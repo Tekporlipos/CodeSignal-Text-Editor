@@ -6,7 +6,7 @@ Your teak is to simulate the working process of a text editor with a simple clip
 
 1. TYPE \<text>
 2. SELECT <start_index> <end_index>
-3. MOVE_CURSOR <offset>
+3. MOVE_CURSOR \<offset>
 4. COPY
 5. PASTE <steps_back>
 6. PASTE
